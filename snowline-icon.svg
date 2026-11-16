@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="SnowlineOS">
+  <defs>
+    <clipPath id="mountain">
+      <path d="M56 380 L190 204 L248 270 L330 136 L456 380 Z"/>
+    </clipPath>
+  </defs>
+  <rect width="512" height="512" fill="#0F1318"/>
+  <g clip-path="url(#mountain)">
+    <rect x="0" y="0" width="512" height="292" fill="#E8EEF3"/>
+    <rect x="0" y="292" width="512" height="220" fill="#2B3440"/>
+  </g>
+  <path d="M96 292 H436" stroke="#5CCFD8" stroke-width="20" stroke-linecap="round"/>
+</svg>
